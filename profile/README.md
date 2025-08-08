@@ -1,5 +1,7 @@
 # Mavon
 
+<img src="./assets/mavonLogo.png" alt="Logo do projeto" width="200px">
+
 **Plataforma de apoio para pequenos e médios negócios**
 
 Mavon é uma plataforma SaaS pensada para facilitar a operação de pequenos e médios negócios (consultórios, salões, estúdios, clínicas). Através de formulários de agendamento adaptados para cada tipo de parceiro e de um painel administrativo rico em dados, queremos automatizar rotinas, reduzir custos operacionais e melhorar a experiência entre negócio e cliente.
