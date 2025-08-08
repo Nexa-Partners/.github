@@ -1,7 +1,7 @@
 # Mavon
 
 <p align="center">
-  <img src="./assets/mavonLogo.png.png" alt="Logo Mavon" width="200px">
+  <img src="./assets/mavonLogo.png" alt="Logo Mavon" width="200px">
 </p>
 
 **Plataforma de apoio para pequenos e médios negócios**
@@ -37,7 +37,7 @@ Muitos sistemas completos atendem grandes empresas; entretanto, pequenas e médi
 ## Interface — Prévia visual
 
 <p align="center">
-  <img src="./assets/mavonexample.png.png" alt="Exemplo da interface do Mavon" width="700px">
+  <img src="./assets/mavonexample.png" alt="Exemplo da interface do Mavon" width="700px">
 </p>
 
 ---
