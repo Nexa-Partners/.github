@@ -1,7 +1,7 @@
 # Mavon
 
 <p align="center">
-  <img src="./assets/mavonLogo.png" alt="Logo Mavon" width="200px">
+  <img src="./assets/mavonLogo.png" alt="Logo Mavon" width="450px">
 </p>
 
 **Plataforma de apoio para pequenos e médios negócios**
