@@ -87,4 +87,6 @@ Trabalharemos em sprints quinzenais, com reuniões de revisão e reajuste de pra
 
 ## PM Canvas
 
-
+<p align="center">
+  <img src="./assets/PM Canvas.png" alt="Logo Mavon" width="100%">
+</p>
