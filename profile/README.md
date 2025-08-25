@@ -82,3 +82,9 @@ Trabalharemos em sprints quinzenais, com reuniões de revisão e reajuste de pra
 | MVP completo                 | Formulário + Dashboard + Painel de agendamentos + sistema de e-mail em produção com **1 cliente** ativo | **30 de novembro de 2025** |
 
 **Critério de aceitação do MVP:** sistema operacional com pelo menos um cliente em uso real ou ambiente de testes com dados reais; as features principais funcionando conforme descrito.
+
+---
+
+## PM Canvas
+
+
