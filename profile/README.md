@@ -60,7 +60,10 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
   <div style="flex: 1; min-width: 100px;">
   O **Nexa** é o produto principal da Nexa Group: uma **plataforma de gestão financeira pessoal** desenvolvida para ajudar usuários a **organizar suas finanças, acompanhar ganhos e controlar investimentos** de forma simples, segura e intuitiva.
 
-  O projeto está sendo construído com base em tecnologias modernas, como **Go (Fiber)** no backend e **React** no frontend, e segue o objetivo de entregar um **MVP funcional até novembro de 2025**.  
+  O projeto está sendo construído com base em tecnologias modernas, como **Go (Fiber)** no backend e **React** no frontend, e segue o objetivo de entregar um **MVP funcional até novembro de 2025**.
+
+  🧾 Termo de Anuência: [Acesse no Google Docs](https://docs.google.com/document/d/1b7rr_W3e6ecN7ZVXyZC4E3Qc2bcXIvdSlfa4_1rpiIk/edit?usp=sharing)
+
 
   📘 Saiba mais sobre o Nexa App em seu repositório dedicado:  
   👉 [`nexa-app`](#)
