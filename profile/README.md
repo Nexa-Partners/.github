@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="../profile/assets/nexa-logo.svg" alt="Nexa Group Logo" width="200"/>
+</p>
+
 # 🏢 Nexa Group
 
 **Nexa Group** é uma **fábrica de software** especializada em desenvolver **soluções digitais inovadoras** com foco em **mercado financeiro e finanças pessoais**.  
@@ -48,9 +52,13 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
 
 ---
 
-## 📱 Produto em Destaque — *Nexa Finance*
+## 📱 Produto em Destaque — *Nexa App*
 
 O **Nexa** é o produto principal da Nexa Group: uma **plataforma de gestão financeira pessoal** desenvolvida para ajudar usuários a **organizar suas finanças, acompanhar ganhos e controlar investimentos** de forma simples, segura e intuitiva.  
+
+<p align="center">
+  <img src="../profile/assets/financeEX.svg" alt="Nexa App Preview" width="600"/>
+</p>
 
 O projeto está sendo construído com base em tecnologias modernas, como **Go (Fiber)** no backend e **React** no frontend, e segue o objetivo de entregar um **MVP funcional até novembro de 2025**.  
 
