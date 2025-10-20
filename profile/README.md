@@ -1,92 +1,90 @@
-# Mavon
+# 💰 Nexa – Plataforma de Gestão Financeira Pessoal
 
-<p align="center">
-  <img src="./assets/mavonLogo.png" alt="Logo Mavon" width="100%">
-</p>
+O **Nexa** é uma plataforma **SaaS** voltada para o **gerenciamento financeiro pessoal**, projetada para ajudar indivíduos a registrar despesas, acompanhar receitas e monitorar investimentos de forma prática e segura.  
 
-**Plataforma de apoio para pequenos e médios negócios**
-
-Mavon é uma plataforma SaaS pensada para facilitar a operação de pequenos e médios negócios (consultórios, salões, estúdios, clínicas). Através de formulários de agendamento adaptados para cada tipo de parceiro e de um painel administrativo rico em dados, queremos automatizar rotinas, reduzir custos operacionais e melhorar a experiência entre negócio e cliente.
+Nosso objetivo é **simplificar o controle financeiro**, **automatizar cálculos** e oferecer uma **visão clara da saúde econômica do usuário** — tudo com uma **interface moderna e intuitiva**.
 
 ---
 
-## Visão rápida
+## ⚡ Visão Rápida
 
-* **Público-alvo:** pequenos e médios negócios (ex.: dentistas, médicos, barbeiros, podólogos).
-* **Proposta de valor:** agendamento automático via formulário personalizado, painel com métricas operacionais e ferramentas de comunicação (envio de e-mail para feedback e notificações).
-* **Estado:** ideia validada. Ainda sem implementação — objetivo: MVP até novembro de 2025.
-
----
-
-## O que entregamos (principais funcionalidades)
-
-* **Formulário de agendamento adaptativo** por tipo de parceiro (campos customizáveis, duração do serviço, capacidade por profissional, validações).
-* **Painel de agendamentos**: visão, criação, edição, cancelamento, atribuição de profissionais, histórico de atendimentos e informações do cliente.
-* **Dashboard do proprietário**: métricas e insights (horários de pico, horários vazios, clientes frequentes, taxa de ocupação, relatórios por período).
-* **Sistema de e-mail pós-serviço**: envio automático de pedido de avaliação/feedback após confirmação do atendimento.
-* **Autenticação básica** para proprietários e staff.
+- **Público-alvo:** pessoas físicas que desejam controlar melhor suas finanças, acompanhar ganhos e investir de forma inteligente.  
+- **Proposta de valor:** gerenciamento unificado de contas, despesas, receitas e investimentos, com relatórios detalhados e insights automáticos.  
+- **Estado:** ideia validada, backend em desenvolvimento com **Go (Fiber)** e **PostgreSQL via Supabase**.  
+- **🎯 Objetivo:** **MVP funcional até novembro de 2025.**
 
 ---
 
-## Por que isso importa
+## 💼 O que entregamos (principais funcionalidades)
 
-Muitos sistemas completos atendem grandes empresas; entretanto, pequenas e médias empresas têm dificuldade em acessar soluções acessíveis e com foco prático. Mavon busca preencher essa lacuna, entregando automação e inteligência simples que gerem economia e mais eficiência operacional — especialmente relevante no contexto de abertura e manutenção de negócios no Brasil.
+### 🧾 Gestão Financeira Completa
+- Registro manual e categorizado de despesas e receitas.  
+- Filtros por data, categoria, tipo e forma de pagamento (Pix, cartão, dinheiro).  
+- Upload opcional de nota fiscal/foto.
 
----
+### 📈 Controle de Investimentos
+- Cálculo de rentabilidade mensal e anual.  
+- Visualização de carteira (ações, fundos, criptos, renda fixa).  
+- Relatórios de evolução patrimonial e comparativos históricos.
 
-## Interface — Prévia visual
+### 📊 Relatórios e Dashboards
+- Gráficos interativos de fluxo de caixa, categorias e metas.  
+- Indicadores de saldo atual, ganhos/perdas e metas atingidas.  
+- Geração de relatórios por período e exportação em CSV/PDF.
 
-<p align="center">
-  <img src="./assets/mavonexample.png" alt="Exemplo da interface do Mavon" width="700px">
-</p>
+### 🎯 Metas e Orçamentos
+- Criação de limites mensais de gasto e metas de economia.  
+- Alertas automáticos por e-mail ao atingir o limite definido.
 
----
-
-## Time — donos e papéis
-
-> Todos são proprietários do projeto e atuam como desenvolvedores fullstack. Abaixo, uma tabela visual com papéis principais.
-
-| Nome                                   | Papel principal                                                                 | Responsabilidades chave                                                                                              |
-| -------------------------------------- | ------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| **Pedro Henrique Santana Di Oliveira** | Product Lead / Client Liaison | Definição de rumo do produto, contato com clientes/partners, priorização do roadmap, também desenvolvedor fullstack. |
-| **Bruno Cesar**                        | Líder Técnico (Tech Lead)                                                   | Arquitetura, decisões técnicas, revisão de código, padrões e qualidade, também desenvolvedor fullstack.              |
-| **Marcos De Lima Prado**               | Gerente de Banco de Dados (DB Manager)                                      | Modelagem, migrations, performance e backups do PostgreSQL, também desenvolvedor fullstack.                          |
-
-**Contribuições externas:** no momento não há política pública de contribuição — alterações via equipe.
-
----
-
-## Onde o projeto será desenvolvido e acompanhado
-
-* Repositórios GitHub: `mavon-backend` e `mavon-frontend` (cada um com README próprio).
-* Gestão: GitHub Projects (Kanban) para backlog e sprints.
-* Ferramentas de referência:
-
-  * **Frontend:** React + Tailwind CSS
-  * **Backend:** Spring Boot (Java)
-  * **Banco:** PostgreSQL
-  * **CI/CD sugerido:** GitHub Actions
-  * **E-mail:** provedor SMTP (SendGrid / Mailgun / similar)
+### ⚙️ Configurações e Segurança
+- Login seguro com autenticação **JWT**.  
+- Preferências de tema (claro/escuro).  
+- Backup automático e criptografia de dados sensíveis.
 
 ---
 
-## Roadmap & Cronograma (metas principais)
+## 💡 Por que isso importa
 
-Trabalharemos em sprints quinzenais, com reuniões de revisão e reajuste de prazos a cada 2 semanas.
+Muitos aplicativos financeiros são **complexos ou focados em bancos específicos**.  
+O **Nexa** busca ser **acessível e independente**, permitindo que qualquer pessoa acompanhe sua vida financeira de forma **simples e organizada** — com **dados centralizados**, **visual limpo** e **análises úteis**.  
 
-| Entrega                      | Escopo                                                                                                  |                  Data alvo |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------- | -------------------------: |
-| Formulário adaptativo        | Formulário funcional para tipos de parceiro com validações e integração mínima com backend              |   **15 de agosto de 2025** |
-| Dashboard inicial            | Métricas básicas (horários de pico/vagos, clientes frequentes) e visualização por período               | **30 de setembro de 2025** |
-| Sistema de e-mail (feedback) | Integração SMTP, templates básicos e disparo pós-serviço                                                |  **31 de outubro de 2025** |
-| MVP completo                 | Formulário + Dashboard + Painel de agendamentos + sistema de e-mail em produção com **1 cliente** ativo | **30 de novembro de 2025** |
-
-**Critério de aceitação do MVP:** sistema operacional com pelo menos um cliente em uso real ou ambiente de testes com dados reais; as features principais funcionando conforme descrito.
+Em tempos de **aumento do custo de vida** e **maior busca por autonomia financeira**, o Nexa oferece **controle, clareza e inteligência** para o dia a dia.
 
 ---
 
-## PM Canvas
+## 🧠 Arquitetura e Stack Técnica
 
-<p align="center">
-  <img src="./assets/PM Canvas.png" alt="Logo Mavon" width="100%">
-</p>
+| Camada | Tecnologia |
+|--------|-------------|
+| **Frontend** | React + Tailwind CSS |
+| **Backend** | Go (Fiber) |
+| **Banco de Dados** | PostgreSQL via Supabase |
+| **Autenticação** | JWT |
+| **CI/CD** | GitHub Actions |
+| **Infraestrutura** | Docker |
+| **Serviços de E-mail** | SendGrid / Mailgun |
+
+---
+
+## 🧩 Repositórios e Organização
+
+- **Backend:** [`nexa-backend`](#)
+- **Frontend:** [`nexa-frontend`](#)
+
+Gestão de tarefas via **GitHub Projects (Kanban)**, com **sprints quinzenais** e acompanhamento de progresso.  
+Toda a **documentação e wireframes** serão centralizados no **repositório principal**.
+
+---
+
+## 🗓️ Roadmap & Cronograma
+
+| Entrega | Escopo | Data Alvo |
+|----------|---------|------------|
+| **CRUD de usuários** | Criação, autenticação e segurança JWT | 15 de agosto de 2025 |
+| **Módulo de lançamentos** | CRUD de receitas e despesas com filtros e categorias | 30 de setembro de 2025 |
+| **Módulo de investimentos** | Registro e cálculo de rendimentos mensais e anuais | 31 de outubro de 2025 |
+| **MVP completo** | Lançamentos + Investimentos + Dashboard + Metas em produção | 30 de novembro de 2025 |
+
+---
+
+> 📘 **Documento base:** rascunho inicial desenvolvido durante a aula, evoluído para formato de documentação oficial da organização **Nexa**.
