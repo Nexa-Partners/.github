@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="../profile/assets/nexa-logo.svg" alt="Nexa Group Logo" width="200"/>
+  <img src="../profile/assets/nexa-logo.svg" alt="Nexa Group Logo" width="100%"/>
 </p>
 
-# 🏢 Nexa Group
+# Nexa Group
 
 **Nexa Group** é uma **fábrica de software** especializada em desenvolver **soluções digitais inovadoras** com foco em **mercado financeiro e finanças pessoais**.  
 Nossa missão é **resolver problemas reais com agilidade, qualidade e tecnologia de ponta**, entregando produtos que unem performance, design e valor estratégico.
@@ -26,8 +26,8 @@ Somos uma startup construída sobre três pilares fundamentais:
 A Nexa Group é composta por profissionais dedicados, com papéis estratégicos bem definidos:
 
 - **Pedro Henrique Santana** — *Liderança Estratégica e Visão de Produto*  
-- **Bruno [Sobrenome]** — *CTO (Chief Technology Officer)*  
-- **Marcos [Sobrenome]** — *Head de Inovação*  
+- **Bruno César** — *CTO (Chief Technology Officer)*  
+- **Marcos De Lima** — *Head de Inovação*  
 
 Essa estrutura garante equilíbrio entre **gestão de produto, tecnologia e inovação**, resultando em entregas consistentes e de alto impacto.
 
@@ -52,18 +52,26 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
 
 ---
 
-## 📱 Produto em Destaque — *Nexa App*
+## 📱 Produto em Destaque — Nexa App
 
-O **Nexa** é o produto principal da Nexa Group: uma **plataforma de gestão financeira pessoal** desenvolvida para ajudar usuários a **organizar suas finanças, acompanhar ganhos e controlar investimentos** de forma simples, segura e intuitiva.  
+<div style="display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap;">
 
-<p align="center">
-  <img src="../profile/assets/financeEX.svg" alt="Nexa App Preview" width="600"/>
-</p>
+  <!-- Texto -->
+  <div style="flex: 1; min-width: 100px;">
+  O **Nexa** é o produto principal da Nexa Group: uma **plataforma de gestão financeira pessoal** desenvolvida para ajudar usuários a **organizar suas finanças, acompanhar ganhos e controlar investimentos** de forma simples, segura e intuitiva.
 
-O projeto está sendo construído com base em tecnologias modernas, como **Go (Fiber)** no backend e **React** no frontend, e segue o objetivo de entregar um **MVP funcional até novembro de 2025**.  
+  O projeto está sendo construído com base em tecnologias modernas, como **Go (Fiber)** no backend e **React** no frontend, e segue o objetivo de entregar um **MVP funcional até novembro de 2025**.  
 
-📘 Saiba mais sobre o Nexa App em seu repositório dedicado:  
-👉 [`nexa-app`](#)
+  📘 Saiba mais sobre o Nexa App em seu repositório dedicado:  
+  👉 [`nexa-app`](#)
+  </div>
+
+  <!-- Imagem -->
+  <div style="flex: 1; min-width: 100px;">
+    <img src="../profile/assets/financeEX.svg" alt="Nexa App Preview" width="35%"/>
+  </div>
+
+</div>
 
 ---
 
