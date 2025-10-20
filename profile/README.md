@@ -66,7 +66,7 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
 
 
   📘 Saiba mais sobre o Nexa App em seu repositório dedicado:  
-  👉 [`nexa-app`](#)
+  [📂 Acesse o Repositório Frontend do Nexa](https://github.com/Nexa-Partners/nexa-finance-frontend)
   </div>
 
   <!-- Imagem -->
