@@ -75,12 +75,6 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
   </div>
 </div>
 
-## 🎲 Modelo do banco de dados
-
-<div align="start">
-<img src="./assets/Modelo_MER_Nexa_v3.svg" alt="Nexa DB Model" height="600"/>
-</div>
-
 ---
 
 ## 🌍 Nossa Visão
