@@ -73,7 +73,12 @@ Nosso compromisso é oferecer **valor real por um preço justo**, mantendo sempr
   <div style="flex: 1; min-width: 100px;">
     <img src="../profile/assets/financeEX.svg" alt="Nexa App Preview" width="35%"/>
   </div>
+</div>
 
+## 🎲 Modelo do banco de dados
+
+<div align="start">
+<img src="./assets/Modelo_MER_Nexa_v3.svg" alt="Nexa DB Model" height="600"/>
 </div>
 
 ---
