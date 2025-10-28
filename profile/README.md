@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="../profile/assets/logo.png" alt="Nexa Group Logo" width="100%"/>
+  
 </p>
 
 # Nexa Group
