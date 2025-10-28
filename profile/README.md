@@ -7,7 +7,7 @@
 **Nexa Group** é uma **fábrica de software** especializada em desenvolver **soluções digitais inovadoras** com foco em **mercado financeiro e finanças pessoais**.  
 Nossa missão é **resolver problemas reais com agilidade, qualidade e tecnologia de ponta**, entregando produtos que unem performance, design e valor estratégico.
 
-> A Nexa Group é uma **startup incubada na faculdade CEUB** por meio do **Projeto Integrador II**, iniciativa que apoia o desenvolvimento de projetos tecnológicos com base em experiências reais de mercado.
+> Sendo uma **startup incubada na faculdade CEUB** por meio do **Projeto Integrador II**,a iniciativa que apoia o desenvolvimento de projetos tecnológicos com base em experiências reais de mercado.
 
 ---
 
