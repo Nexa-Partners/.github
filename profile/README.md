@@ -88,7 +88,7 @@ Ser reconhecida como uma **referência em inovação e eficiência** no desenvol
 ## 📫 Contato
 
 Entre em contato conosco para parcerias, projetos e colaborações:  
-✉️ **contato@nexagroup.com**  
+✉️ **pedro.h.soterio@gmail.com**  
 🌐 [nexagroup.com](#) *(em breve)*  
 
 ---
