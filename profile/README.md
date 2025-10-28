@@ -1,5 +1,5 @@
 <p align="center">
-  
+  <img src="https://raw.githubusercontent.com/NexaOrg/.github/main/profile/assets/nexa_group_logo.svg" alt="Nexa Group Logo" style="max-width: 600px; width: 100%; height: auto;"/>
 </p>
 
 # Nexa Group
